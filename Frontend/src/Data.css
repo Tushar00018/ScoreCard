@@ -1,0 +1,8 @@
+table {
+  width: 800px;
+  margin: 5% auto;
+}
+td,
+th {
+  padding: 20px;
+}
